@@ -1,6 +1,10 @@
 # Cadastro de Usuários
+Este é um site para realizar o cadastro de usuários.
 
 ## Instruções
+Para utilizar o site, siga as instruções abaixo:
 
-1. Para acessar o código, deve ser usado um navegador.
-2. Abra no caminho onde está o arquivo `index.html` ou use um servidor distribuir a aplicação (como a extensão do VSCode Go-Live).
+1. Abra um navegador da web.
+2. Navegue até o caminho onde o arquivo index.html está localizado.
+3. Abra o arquivo index.html clicando duas vezes nele ou utilizando a opção "Abrir arquivo" no menu do navegador.
+4. O site de cadastro de usuários será carregado no navegador.
